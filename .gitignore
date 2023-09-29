@@ -1,0 +1,4 @@
+env/
+*.part
+*.mp3
+settings.py
